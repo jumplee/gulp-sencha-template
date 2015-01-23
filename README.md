@@ -16,6 +16,7 @@ npm install
   gulp compile_template
 ```
 :-D
+
 6. Gulp will generate the tpl.js ,add it to the sencha app.json,or any way,make it loaded in the index.html.
 
 #notices
