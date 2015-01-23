@@ -22,4 +22,4 @@ npm install
 #notices
 1. I add a watch to make it auto compile ,it works fine in PC,but fails in Mac.
   just watch the code and find how to use it.
-2. As the files grow ,you may find it will slow down ,because I concat all the files to the tpl.js
+2. As the files grow ,you may find it will slow down ,because I concat all the files to the tpl.js.You can just **add another folder and gulp task** to compile a **tpl2.js**
