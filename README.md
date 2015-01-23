@@ -16,3 +16,9 @@ npm install
   gulp compile_template
 ```
 :-D
+6. Gulp will generate the tpl.js ,add it to the sencha app.json,or any way,make it loaded in the index.html.
+
+#notices
+1. I add a watch to make it auto compile ,it works fine in PC,but fails in Mac.
+  just watch the code and find how to use it.
+2. As the files grow ,you may find it will slow down ,because I concat all the files to the tpl.js
