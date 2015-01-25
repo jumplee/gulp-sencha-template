@@ -14,7 +14,7 @@ gulp.task('default', ['compile_template']);
 
 var paths={
 	 //不能以"./"开头否则gulp-watch会不能正常检查出文件的增加和减少
-	tpl:'resources/tpl/*.html'
+	tpl:['resources/tpl/*/*','resources/tpl/*']
 }
 /*
  var cmd = require('run-cmd');
