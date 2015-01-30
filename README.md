@@ -9,6 +9,10 @@ a great tool for somebody who don't like edit sencha template in javascript file
 ```dash
 npm install 
 ```
+mac or linux user
+```dash
+sudo npm install
+```
 4. as normal user in china you may have to change you npm source to **taobao** use **nrm**
   [nrm](http://www.tuicool.com/articles/nYjqeu)
 5. run as 
