@@ -91,7 +91,7 @@ return (Ext.isObject(config) && config.isTemplate) ? config : new Ext.XTemplate(
 ```
 I'm chinese ,so enjoy the beauty of Chinese. ⊙﹏⊙b汗
 
-2. use like that:
+  2. use like that:
 
 ```javascript
 {
@@ -100,7 +100,7 @@ tpl:'name.info'
 }
 
 ```
-3. with [gulp-html-include](https://www.npmjs.com/package/gulp-html-tag-include) you  can use **<inlcude> tag** to save your life .
+  3. with [gulp-html-include](https://www.npmjs.com/package/gulp-html-tag-include) you  can use **<inlcude> tag** to save your life .
 
 ```html
 <div class="info">
