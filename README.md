@@ -1,7 +1,7 @@
 # gulp-sencha-template
 a great tool for somebody who don't like edit sencha template in javascript files.Just Enjoy it!
 
-(中文说明)[https://github.com/jumplee/gulp-sencha-template/blob/master/%E8%AF%B4%E6%98%8E.md]
+[中文说明](https://github.com/jumplee/gulp-sencha-template/blob/master/%E8%AF%B4%E6%98%8E.md)
 
 # setup
 1. install node.js and npm
