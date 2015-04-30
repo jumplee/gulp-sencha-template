@@ -15,7 +15,7 @@ mac or linux user
 ```dash
 sudo npm install
 ```
-4. 天朝屌丝记得把 npm源改为 **taobao** use **nrm**
+4. if you failed as 404 change your npm source using nrm
   [nrm](http://www.tuicool.com/articles/nYjqeu)
 5. run as 
 ```dash
