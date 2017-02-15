@@ -37,7 +37,7 @@ gulp.task('compile_template', function(done) {
       .pipe(wrap("'<%= contents %>'"))
       //声明变量
       .pipe(declare({
-        namespace: 'MPDL.tpl',
+        namespace: '_.tpl',
         noRedeclare: true // 避免变量名重复
       }))
       //连接成一个文件
